@@ -1,1 +1,1 @@
-# Concierge\n\nResource concierge for brokered short-lived credentials and access\n
+# concierge\n\nShort description and quick start\n
