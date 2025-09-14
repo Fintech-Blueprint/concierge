@@ -1,1 +1,1 @@
-# concierge\n\nResource Concierge: secure, audited access to databases and external systems.\n
+# Concierge\n\nResource concierge for brokered short-lived credentials and access\n
