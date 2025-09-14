@@ -1,0 +1,1 @@
+class DBAdapter:\n    pass\n\nclass APIAdapter:\n    pass\n
