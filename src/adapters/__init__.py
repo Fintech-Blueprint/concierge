@@ -1,1 +1,1 @@
-class DBAdapter:\n    pass\n\nclass APIAdapter:\n    pass\n
+class Adapter:\n    pass\n
